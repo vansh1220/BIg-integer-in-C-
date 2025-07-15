@@ -39,4 +39,4 @@ a * b = 838102050
 
 ## 📜 License
 
-[MIT or your license here]
+[MIT ]
